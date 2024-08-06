@@ -30,7 +30,7 @@ The CHAT GPT CLONE web application is designed to provide a user-friendly and mo
 
 ## Site Link
 
-<a href="https://n">Netlify Project View</a>
+<a href="https://chatgptclonee.netlify.app/">Netlify Project View</a>
 
 ## Contact
 
